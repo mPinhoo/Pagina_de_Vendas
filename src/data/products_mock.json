@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Rel\u00f3gio Elegante",
+    "price": 250999.99,
+    "image": "https://cdn.sistemawbuy.com.br/arquivos/ebaf237f72d8e6d64fa5307a9badec5b/produtos/646e4ac4d667d/picsart_23-07-13_15-24-39-345-64b1a0cda6a0a.jpg"
+  },
+  {
+    "id": 2,
+    "name": "C\u00e2mera Vintage",
+    "price": 85.5,
+    "image": "https://www.lightrocket.com/_next/image?url=%2Fimg%2Fblog%2Fbreathing-new-life-into-vintage-cameras-with-im-back-film%2Fbreathing_new_life_into_vintage_cameras_with_im_back_film.png&w=3840&q=75"
+  },
+  {
+    "id": 3,
+    "name": "Fones de Ouvido",
+    "price": 35.99,
+    "image": "https://cdn.awsli.com.br/600x1000/1113/1113512/produto/110434143/0fd759954d.jpg"
+  },
+  {
+    "id": 4,
+    "name": "T\u00eanis de Corrida",
+    "price": 120.0,
+    "image": "https://i0.wp.com/www.perunning.com.br/wp-content/uploads/2023/12/asics-novablast-4_tenis_lancamento.jpg?fit=1000%2C666&ssl=1"
+  },
+  {
+    "id": 5,
+    "name": "Smartphone",
+    "price": 299.99,
+    "image": "https://www.apple.com/newsroom/images/2024/09/apple-introduces-iphone-16-and-iphone-16-plus/article/geo/Apple-iPhone-16-hero-geo-240909_inline.jpg.large.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Livro de Aventura",
+    "price": 19.99,
+    "image": "https://recreio.uol.com.br/images/original/2020/04/09/livros-de-aventura-que-todo-fa-do-genero-deveria-conhecer-1221624.png"
+  }
+]
